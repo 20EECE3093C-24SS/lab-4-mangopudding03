@@ -19,7 +19,7 @@ jobs:
           pip install -r requirements.txt
       - name: Build HTML documentation
         run: |
-          sphinx-apidoc -o docs/source/ sample/
+          sphinx-apidoc -o docs/source/sample/
           cd docs
           make html
           cd build
