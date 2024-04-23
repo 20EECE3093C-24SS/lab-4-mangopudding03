@@ -1,7 +1,6 @@
 # 20EECE3093C - Lab 4
 
-[![unit test](https://github.com/20EECE3093C-24SS/lab-4-mangopudding03
-/actions/workflows/ci-pytest.yaml/badge.svg?event=push)](https://github.com/20EECE3093C-24SS/lab-4-mangopudding03/actions/workflows/ci-pytest.yaml)
+[![Unit Test](https://github.com/20EECE3093C-24SS/lab-4-mangopudding03/actions/workflows/ci-pytest.yaml/badge.svg?event=push)](https://github.com/20EECE3093C-24SS/lab-4-mangopudding03/actions/workflows/ci-pytest.yaml)
 
 [![doc generation](https://github.com/20EECE3093C-24SS/lab-4-mangopudding03/actions/workflows/ci-sphinx.yaml/badge.svg?event=push)](https://github.com/20EECE3093C-24SS/lab-4-mangopudding03/actions/workflows/ci-sphinx.yaml)
 
